@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "com.ladeezfirstmedia.giftler" 
+    applicationId = "com.edicon.ns.giftler" 
     
     //override supported platforms
     // ndk {

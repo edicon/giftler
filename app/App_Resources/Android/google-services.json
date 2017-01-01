@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "296567069657",
-    "firebase_url": "https://giftler-f48c4.firebaseio.com",
-    "project_id": "giftler-f48c4",
-    "storage_bucket": "giftler-f48c4.appspot.com"
+    "project_number": "498228767664",
+    "firebase_url": "https://nsgiftler.firebaseio.com",
+    "project_id": "nsgiftler",
+    "storage_bucket": "nsgiftler.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:296567069657:android:eca4db03c9dbad9c",
+        "mobilesdk_app_id": "1:498228767664:android:097ca24dd93d8464",
         "android_client_info": {
-          "package_name": "com.ladeezfirstmedia.giftler"
+          "package_name": "com.edicon.ns.giftler"
         }
       },
       "oauth_client": [
         {
-          "client_id": "296567069657-1t1c4mhjchj84i34t3s32t2ohequptp3.apps.googleusercontent.com",
+          "client_id": "498228767664-kcfve2tp88ov7lps7jcqfpmaprkqd4qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edicon.ns.giftler",
+            "certificate_hash": "81FADFF354BD8408222516F5EA2B4774874C9AB3"
+          }
+        },
+        {
+          "client_id": "498228767664-g69p75meugb0p600s982runvdcqpodrm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDJLKzEnTC0rgOiFLp4zQLwoFyRjup_R0o"
+          "current_key": "AIzaSyCjTMsSoxbanifY5FRXIR-PJgCfFjAPx2I"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498228767664-g69p75meugb0p600s982runvdcqpodrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
