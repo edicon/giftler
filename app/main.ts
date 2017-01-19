@@ -28,4 +28,4 @@ firebase.init({
     console.log("firebase.init error: " + error);
   }
   );
-platformNativeScriptDynamic().bootstrapModule(AppModule);
+platformNativeScriptDynamic({startPageActionBarHidden: true}).bootstrapModule(AppModule);
